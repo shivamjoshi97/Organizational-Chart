@@ -23,14 +23,7 @@
 }
 
     .tree li .trcont {
-        /*cursor: pointer;*/
         width: 100px;
-        /*border: 1px solid #ccc;
-                padding: 5px 10px;*/
-        /*text-decoration: none;*/
-        /*color: #666;
-                font-family: arial, verdana, tahoma;*/
-        /*font-size: 11px;*/
         background: #daefff;
         padding: 5px;
         display: inline-block;
