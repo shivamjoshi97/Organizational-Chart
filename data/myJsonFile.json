@@ -1,0 +1,143 @@
+﻿[{
+                        "head": "Year-2023",
+                        "id": "aa",
+                        "contents": "",
+                        "children": [
+                            {
+                                "head": "Q1",
+                                "id": "q1",
+                                "contents": ["2000","1","4474412","17755%","+4449212","+338208","166096534","23027864","27502276"],
+                                "children": [
+                                    { "head": "Q1-Apr", "id": "april", "contents":[1,2,3,4,5,6,7,8,9],
+                                    "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q1-May", "id": "may", "contents": [1,2,3,4,5,6,7,8,9],
+                                    "children":[
+                                        { "head": "1st-Week", "id": "may1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "may2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "may3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "may4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "may5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q1-Jun", "id": "june", "contents":[1,2,3,4,5,6,7,8,9],
+                                    "children":[
+                                        { "head": "1st-Week", "id": "june1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "june2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "june3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "june4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "june5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                }
+                                ]
+                            },
+                            {
+                                "head": "Q2",
+                                "id": "q2",
+                                "contents": ["2000","133500","11345205","567260%","+11343205","+8047231","14313743","6690779","180035984"],
+                                "children": [
+                                    { "head": "Q2-Jul", "id": "july", "contents": [1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q2-Aug", "id": "august", "contents": [1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q2-Sep", "id": "september", "contents": [1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                }
+                                ]
+                            },
+                            {
+                                "head": "Q3",
+                                "id": "q3",
+                                "contents": ["2000","1","474112","27753%","+1449212","+538208","466096534","13027864","17502276"],
+                                "children": [
+                                    { "head": "Q3-Oct", "id": "october", "contents": [1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q3-Nov", "id": "november", "contents": [1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q3-Dec", "id": "december", "contents": [1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                }
+                                ]
+                            },
+                            {
+                                "head": "Q4",
+                                "id": "q4",
+                                "contents": ["2000","0","0","0%","-2000","-2000","0","0","0"],
+                                "children": [
+                                    { "head": "Q4-Jan", "id": "january", "contents":[1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q4-Feb", "id": "febuary", "contents":[1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                },
+                                    { "head": "Q4-Mar", "id": "march", "contents":[1,2,3,4,5,6,7,8,9],
+                                "children":[
+                                        { "head": "1st-Week", "id": "april1", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "2nd-Week", "id": "april2", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "3rd-Week", "id": "april3", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "4th-Week", "id": "april4", "contents": [1,2,3,4,5,6,7,8,9] },
+                                        { "head": "5th-Week", "id": "april5", "contents": [1,2,3,4,5,6,7,8,9] }
+                                    ]
+                                }
+                                ]
+                            }
+                        ]
+                    }]
